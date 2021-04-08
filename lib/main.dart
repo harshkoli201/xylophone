@@ -66,7 +66,7 @@ class XylophoneApp extends StatelessWidget {
                 ),
               ),
               SizedBox(
-                height: 120,
+                height: 100,
                 child: RaisedButton(
                   color: Colors.blue,
                   onPressed: () {
@@ -75,7 +75,7 @@ class XylophoneApp extends StatelessWidget {
                 ),
               ),
               SizedBox(
-                height: 120,
+                height: 95,
                 child: RaisedButton(
                   color: Colors.purple,
                   onPressed: () {
